@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by (Accrue http://www.accruemarketing.com/) -->
+<!-- Generated-on="January 27, 2022, 3:19 pm" -->
+<?xml-stylesheet type="text/xsl" href="https://wire.suppliers.id/video-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+ <url>
+ <loc>https://wire.suppliers.id/</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/P4m-3E-UUWE</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/P4m-3E-UUWE/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Home</video:title>
+  <video:description>Home</video:description>
+  <video:publication_date>2018-10-09T09:14:55+00:00</video:publication_date>
+ </video:video>
+ </url>
+</urlset>
